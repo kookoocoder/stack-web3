@@ -4,6 +4,10 @@ A simple Clarity smart contract where the deployer hides a treasure at a secret 
 
 ### Contract
 
+<img width="1470" height="920" alt="image" src="https://github.com/user-attachments/assets/cd6cb92b-778c-4db9-9fa7-b148773348a8" />
+
+Contract Address: ST16D0YMM7NF20CWCFQS13K5T3H22D5GPKNT8VA8H.treasure-hunt-game-2
+
 File: `contracts/treasure-hunt-game.clar`
 
 - **Data variables**
@@ -129,7 +133,7 @@ Note: The contract owner is set to `tx-sender` at deployment, i.e., the deployer
 
 MIT
 
-<img width="1470" height="920" alt="image" src="https://github.com/user-attachments/assets/cd6cb92b-778c-4db9-9fa7-b148773348a8" />
+
 
 
 
